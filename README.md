@@ -16,7 +16,7 @@
 <!-- ===== Compteurs & contact rapide ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussayran&style=flat&color=orange&label=VUES+DU+PROFIL" alt="Vues du profil" />
-  <a href="https://www.linkedin.com/in/[profil]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohamad-oussayran-a37b3b107"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.fdi-access.com"><img src="https://img.shields.io/badge/FDI--ACCESS-00CF00?style=flat&logo=googlechrome&logoColor=white" alt="FDI-ACCESS" /></a>
 </p>
 
@@ -117,7 +117,7 @@ Un jour, j'aimerais :
 
 ## 📫 Me contacter
 
-Le plus simple : l'adresse e-mail affichée sur mon profil GitHub, ou [LinkedIn](https://www.linkedin.com/in/[profil]).
+Le plus simple : l'adresse e-mail affichée sur mon profil GitHub, ou [LinkedIn](https://www.linkedin.com/in/mohamad-oussayran-a37b3b107).
 
 <!-- Bas de page -->
 <p align="center">
