@@ -9,7 +9,7 @@
 <!-- ===== Animated intro ===== -->
 <p align="center">
   <a href="https://www.fdi-access.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00CF00&center=true&vCenter=true&width=700&lines=Access+control+innovation+%40+FDI-ACCESS;Digital+access+%E2%80%A2+APIs+%E2%80%A2+Automation;MCP+servers+%2B+AI+for+security" alt="Access control innovation @ FDI-ACCESS" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00CF00&center=true&vCenter=true&width=700&lines=Electronics+%26+Embedded+Systems+Engineer;Full-stack+Web+%26+AI+Developer;RAG+%E2%80%A2+AI+chatbots+%E2%80%A2+n8n+automation;Creator+of+tech-saas.com" alt="Electronics & Embedded Systems Engineer · Full-stack Web & AI Developer" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussayran&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mohamad-oussayran-a37b3b107"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tech-saas.com"><img src="https://img.shields.io/badge/tech--saas.com-0A66C2?style=flat&logo=rocket&logoColor=white" alt="tech-saas.com" /></a>
   <a href="https://www.fdi-access.com"><img src="https://img.shields.io/badge/FDI--ACCESS-00CF00?style=flat&logo=googlechrome&logoColor=white" alt="FDI-ACCESS" /></a>
 </p>
 
@@ -24,12 +25,16 @@
 
 ## 🧑‍💻 About me
 
+- ⚡ **Electronics & embedded systems engineer** (FPGA, VHDL, Xilinx Zynq, embedded Linux)
+- 🌐 **Full-stack web developer** building **custom applications with built-in AI**
+- 🧠 I build **RAG** pipelines, **AI chatbots** and **n8n** automations
+- 🚀 Creator of **[Tech SaaS](https://tech-saas.com)**: multi-channel CRM (WhatsApp, Instagram, Messenger), n8n workflows, AI chatbots & agents, ERP integrations
 - 🔐 I work on **access control innovation** at [FDI-ACCESS](https://www.fdi-access.com)
 - 📱 Focus: **digital, cardless access** (mobile credentials, QR, NFC, BLE)
 - 🔌 I integrate readers, controllers and security management software **through APIs**
 - 🤖 I build **MCP servers** and automations to drive our systems with AI
 - 🧪 I run **innovation workshops** on the future of access control
-- 💬 Ask me about **security, IoT or automation**
+- 💬 Ask me about **embedded systems, AI integration, automation or IoT**
 - ⚡ Fun fact: [your fun fact]
 
 ## 🛠️ Tools I use
@@ -45,6 +50,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/RAG_%26_LLM-412991?style=flat&logo=openai&logoColor=white" alt="RAG & LLM" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/VHDL-6E4C13?style=flat&logo=v&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/FPGA_Xilinx_Zynq-E01F27?style=flat&logo=amd&logoColor=white" alt="FPGA Xilinx Zynq" />
@@ -57,7 +64,9 @@ const myTools = {
   languages:  ["TypeScript", "JavaScript", "Python", "PowerShell", "Bash", "VHDL"],
   embedded:   ["FPGA", "Xilinx Zynq", "Embedded Linux", "PTP"],
   protocols:  ["REST", "MCP", "NFC", "BLE", "Wiegand", "OSDP"],
-  domains:    ["Access control", "Mobile credentials", "IoT", "Automation"],
+  ai:         ["RAG", "AI chatbots", "AI agents", "MCP"],
+  automation: ["n8n", "Voiceflow", "ERP & API integrations"],
+  domains:    ["Custom web apps", "SaaS", "Access control", "IoT"],
   editors:    ["VS Code"],
   platforms:  ["Windows", "Linux"],
   other:      ["Git", "Claude", "GLPI"],
@@ -67,6 +76,7 @@ const myTools = {
 ## 🚧 What I'm up to
 
 ```text
+- Tech SaaS (tech-saas.com): CRM, n8n automation and AI chatbots for SMBs
 - MCP server for an access control system (people, credentials, profiles, events)
 - Display and melody customization on connected readers
 - "Going digital with access control" innovation workshop
@@ -77,6 +87,9 @@ Someday, I'd like to:
 - 🔜 [Project idea #2]
 
 ## 📚 Resources
+
+#### Web & AI
+- [Tech SaaS](https://tech-saas.com): platform I built — multi-channel CRM, n8n workflows, AI chatbots & agents
 
 #### Access control
 - [Guide or gist title](https://gist.github.com/oussayran/[id])
