@@ -1,5 +1,5 @@
 <!-- README de profil GitHub — inspiré de github.com/Raymo111 et github.com/SP-XD -->
-<!-- Remplacez [user] par votre nom d'utilisateur GitHub et complétez les [crochets]. -->
+<!-- Complétez les champs entre [crochets] (prénom, LinkedIn, anecdote, projets). -->
 
 <!-- ===== Bannière (style SP-XD) ===== -->
 <p align="center">
@@ -15,7 +15,7 @@
 
 <!-- ===== Compteurs & contact rapide ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[user]&style=flat&color=orange&label=VUES+DU+PROFIL" alt="Vues du profil" />
+  <img src="https://komarev.com/ghpvc/?username=oussayran&style=flat&color=orange&label=VUES+DU+PROFIL" alt="Vues du profil" />
   <a href="https://www.linkedin.com/in/[profil]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.fdi-access.com"><img src="https://img.shields.io/badge/FDI--ACCESS-00CF00?style=flat&logo=googlechrome&logoColor=white" alt="FDI-ACCESS" /></a>
 </p>
@@ -46,13 +46,16 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/VHDL-6E4C13?style=flat&logo=v&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/FPGA_Xilinx_Zynq-E01F27?style=flat&logo=amd&logoColor=white" alt="FPGA Xilinx Zynq" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 ```typescript
 // mes_outils.ts
 const mesOutils = {
-  langages:   ["TypeScript", "JavaScript", "Python", "PowerShell", "Bash"],
+  langages:   ["TypeScript", "JavaScript", "Python", "PowerShell", "Bash", "VHDL"],
+  embarqué:   ["FPGA", "Xilinx Zynq", "Linux embarqué", "PTP"],
   protocoles: ["REST", "MCP", "NFC", "BLE", "Wiegand", "OSDP"],
   domaines:   ["Contrôle d'accès", "Badge mobile", "IoT", "Automatisation"],
   éditeurs:   ["VS Code"],
@@ -76,31 +79,25 @@ Un jour, j'aimerais :
 ## 📚 Mes ressources
 
 #### Contrôle d'accès
-- [Titre du guide ou gist](https://gist.github.com/[user]/[id])
+- [Titre du guide ou gist](https://gist.github.com/oussayran/[id])
+
+#### Embarqué & FPGA
+- [ZYBO_zynq-Xilinx](https://github.com/oussayran/ZYBO_zynq-Xilinx) : projets VHDL sur carte ZYBO (Xilinx Zynq)
 
 #### Scripts & outils
-- [Nom du script](https://github.com/[user]/[repo]) : [courte description]
+- [Nom du script](https://github.com/oussayran/[repo]) : [courte description]
 
 ## 📊 Statistiques GitHub
 
-<!-- Cartes de résumé (style SP-XD, thème nord_dark) -->
+<!-- Cartes générées chaque jour par .github/workflows/profile.yml (thème nord_dark) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[user]&theme=nord_dark" alt="Détails du profil" width="100%" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Détails du profil" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[user]&theme=nord_dark" alt="Stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[user]&theme=nord_dark" alt="Dépôts par langage" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[user]&theme=nord_dark" alt="Langages les plus commités" height="160" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" height="160" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Dépôts par langage" height="160" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Langages les plus commités" height="160" />
 </p>
-
-<details>
-  <summary><b>Plus de stats</b></summary>
-  <br />
-  <!-- Métriques détaillées (style Raymo111) -->
-  <a href="https://metrics.lecoq.io/[user]?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Europe%2FParis">
-    <img src="https://metrics.lecoq.io/[user]?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Europe%2FParis" alt="Métriques GitHub" />
-  </a>
-</details>
 
 ## ⚡ Activité récente
 
@@ -135,7 +132,6 @@ Le plus simple : l'adresse e-mail affichée sur mon profil GitHub, ou [LinkedIn]
 - [komarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) : compteur de vues
 - [shields.io](https://shields.io) : badges
 - [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) : cartes de stats
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) : métriques détaillées
 - [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) : activité récente
 - [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) : emojis animés
 </details>
