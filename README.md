@@ -1,41 +1,41 @@
-<!-- README de profil GitHub — inspiré de github.com/Raymo111 et github.com/SP-XD -->
-<!-- Complétez les champs entre [crochets] (prénom, LinkedIn, anecdote, projets). -->
+<!-- GitHub profile README — inspired by github.com/Raymo111 and github.com/SP-XD -->
+<!-- Fill in the remaining [brackets] (fun fact, project ideas, resources). -->
 
-<!-- ===== Bannière (style SP-XD) ===== -->
+<!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CF00,100:0A66C2&height=180&section=header&text=Bonjour%20!%20Je%20suis%20Mohamad&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Bonjour ! Je suis Mohamad" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CF00,100:0A66C2&height=180&section=header&text=Hi%20there!%20I'm%20Mohamad&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Hi there! I'm Mohamad" width="100%" />
 </p>
 
-<!-- ===== Intro animée (style Raymo111) ===== -->
+<!-- ===== Animated intro ===== -->
 <p align="center">
   <a href="https://www.fdi-access.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00CF00&center=true&vCenter=true&width=700&lines=Innovation+%26+contr%C3%B4le+d'acc%C3%A8s+%40+FDI-ACCESS;Acc%C3%A8s+d%C3%A9mat%C3%A9rialis%C3%A9+%E2%80%A2+API+%E2%80%A2+Automatisation;Serveurs+MCP+%2B+IA+pour+la+s%C3%A9curit%C3%A9" alt="Innovation & contrôle d'accès @ FDI-ACCESS" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00CF00&center=true&vCenter=true&width=700&lines=Access+control+innovation+%40+FDI-ACCESS;Digital+access+%E2%80%A2+APIs+%E2%80%A2+Automation;MCP+servers+%2B+AI+for+security" alt="Access control innovation @ FDI-ACCESS" />
   </a>
 </p>
 
-<!-- ===== Compteurs & contact rapide ===== -->
+<!-- ===== Counters & quick contact ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oussayran&style=flat&color=orange&label=VUES+DU+PROFIL" alt="Vues du profil" />
+  <img src="https://komarev.com/ghpvc/?username=oussayran&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mohamad-oussayran-a37b3b107"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.fdi-access.com"><img src="https://img.shields.io/badge/FDI--ACCESS-00CF00?style=flat&logo=googlechrome&logoColor=white" alt="FDI-ACCESS" /></a>
 </p>
 
-`Dernière mise à jour manuelle : 2026-10-10`
+`Last manually updated: 2026-10-10`
 
-## 🧑‍💻 À propos
+## 🧑‍💻 About me
 
-- 🔐 Je travaille sur l'**innovation en contrôle d'accès** chez [FDI-ACCESS](https://www.fdi-access.com)
-- 📱 Spécialité : la **dématérialisation des accès** (badge mobile, QR, NFC, BLE)
-- 🔌 J'intègre lecteurs, contrôleurs et logiciels de supervision **via API**
-- 🤖 Je construis des **serveurs MCP** et des automatisations pour piloter nos systèmes avec l'IA
-- 🧪 J'anime des **ateliers d'innovation** autour des usages de demain
-- 💬 Parlez-moi de **sécurité, d'IoT ou d'automatisation**
-- ⚡ Fun fact : [votre anecdote]
+- 🔐 I work on **access control innovation** at [FDI-ACCESS](https://www.fdi-access.com)
+- 📱 Focus: **digital, cardless access** (mobile credentials, QR, NFC, BLE)
+- 🔌 I integrate readers, controllers and security management software **through APIs**
+- 🤖 I build **MCP servers** and automations to drive our systems with AI
+- 🧪 I run **innovation workshops** on the future of access control
+- 💬 Ask me about **security, IoT or automation**
+- ⚡ Fun fact: [your fun fact]
 
-## 🛠️ Mes outils
+## 🛠️ Tools I use
 
 <p>
-  <img src="https://img.shields.io/badge/Outils_que_j'utilise-orange?style=flat" alt="Outils que j'utilise" />
+  <img src="https://img.shields.io/badge/Tools_I_use-orange?style=flat" alt="Tools I use" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" />
@@ -52,74 +52,74 @@
 </p>
 
 ```typescript
-// mes_outils.ts
-const mesOutils = {
-  langages:   ["TypeScript", "JavaScript", "Python", "PowerShell", "Bash", "VHDL"],
-  embarqué:   ["FPGA", "Xilinx Zynq", "Linux embarqué", "PTP"],
-  protocoles: ["REST", "MCP", "NFC", "BLE", "Wiegand", "OSDP"],
-  domaines:   ["Contrôle d'accès", "Badge mobile", "IoT", "Automatisation"],
-  éditeurs:   ["VS Code"],
-  plateformes:["Windows", "Linux"],
-  autres:     ["Git", "Claude", "GLPI"],
+// my_tools.ts
+const myTools = {
+  languages:  ["TypeScript", "JavaScript", "Python", "PowerShell", "Bash", "VHDL"],
+  embedded:   ["FPGA", "Xilinx Zynq", "Embedded Linux", "PTP"],
+  protocols:  ["REST", "MCP", "NFC", "BLE", "Wiegand", "OSDP"],
+  domains:    ["Access control", "Mobile credentials", "IoT", "Automation"],
+  editors:    ["VS Code"],
+  platforms:  ["Windows", "Linux"],
+  other:      ["Git", "Claude", "GLPI"],
 } as const;
 ```
 
-## 🚧 En ce moment
+## 🚧 What I'm up to
 
 ```text
-- Serveur MCP pour un système de contrôle d'accès (personnes, badges, profils, événements)
-- Personnalisation d'affichage et de mélodies sur lecteurs connectés
-- Atelier « Dématérialisation du contrôle d'accès »
+- MCP server for an access control system (people, credentials, profiles, events)
+- Display and melody customization on connected readers
+- "Going digital with access control" innovation workshop
 ```
 
-Un jour, j'aimerais :
-- 🔜 [Idée de projet n°1]
-- 🔜 [Idée de projet n°2]
+Someday, I'd like to:
+- 🔜 [Project idea #1]
+- 🔜 [Project idea #2]
 
-## 📚 Mes ressources
+## 📚 Resources
 
-#### Contrôle d'accès
-- [Titre du guide ou gist](https://gist.github.com/oussayran/[id])
+#### Access control
+- [Guide or gist title](https://gist.github.com/oussayran/[id])
 
-#### Embarqué & FPGA
-- [ZYBO_zynq-Xilinx](https://github.com/oussayran/ZYBO_zynq-Xilinx) : projets VHDL sur carte ZYBO (Xilinx Zynq)
+#### Embedded & FPGA
+- [ZYBO_zynq-Xilinx](https://github.com/oussayran/ZYBO_zynq-Xilinx): VHDL projects on the ZYBO board (Xilinx Zynq)
 
-#### Scripts & outils
-- [Nom du script](https://github.com/oussayran/[repo]) : [courte description]
+#### Scripts & tools
+- [Script name](https://github.com/oussayran/[repo]): [short description]
 
-## 📊 Statistiques GitHub
+## 📊 GitHub stats
 
-<!-- Cartes générées chaque jour par .github/workflows/profile.yml (thème nord_dark) -->
+<!-- Cards generated daily by .github/workflows/profile.yml (nord_dark theme) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Détails du profil" width="100%" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile details" width="100%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" height="160" />
-  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Dépôts par langage" height="160" />
-  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Langages les plus commités" height="160" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per language" height="160" />
+  <img src="https://raw.githubusercontent.com/oussayran/oussayran/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most committed languages" height="160" />
 </p>
 
-## ⚡ Activité récente
+## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-<!-- Remplie automatiquement par l'action jamesgeorge007/github-activity-readme -->
+<!-- Filled in automatically by jamesgeorge007/github-activity-readme -->
 <!--END_SECTION:activity-->
 
-## 🔁 Le cycle du code
+## 🔁 The code cycle
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Ça ne marche pas !" width="60" title="Ça ne marche pas !" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Broken!" width="60" title="Broken!" />
   &nbsp;&nbsp;➜&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" alt="Ça marche !" width="60" title="Ça marche !" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" alt="It works!" width="60" title="It works!" />
   &nbsp;&nbsp;➜&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Ça marche… mais je ne sais pas pourquoi !" width="60" title="Ça marche… mais je ne sais pas pourquoi !" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="It works… but I don't know why!" width="60" title="It works… but I don't know why!" />
 </p>
 
-## 📫 Me contacter
+## 📫 How to reach me
 
-Le plus simple : l'adresse e-mail affichée sur mon profil GitHub, ou [LinkedIn](https://www.linkedin.com/in/mohamad-oussayran-a37b3b107).
+The easiest way is the email address on my GitHub profile, or [LinkedIn](https://www.linkedin.com/in/mohamad-oussayran-a37b3b107).
 
-<!-- Bas de page -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00CF00&height=100&section=footer" alt="" width="100%" />
 </p>
