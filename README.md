@@ -3,7 +3,7 @@
 
 <!-- ===== Bannière (style SP-XD) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CF00,100:0A66C2&height=180&section=header&text=Bonjour%20!%20Je%20suis%20%5BPr%C3%A9nom%5D&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Bonjour ! Je suis Mohamad " width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CF00,100:0A66C2&height=180&section=header&text=Bonjour%20!%20Je%20suis%20Mohamad&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Bonjour ! Je suis Mohamad" width="100%" />
 </p>
 
 <!-- ===== Intro animée (style Raymo111) ===== -->
