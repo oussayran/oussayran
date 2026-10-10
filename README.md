@@ -123,15 +123,3 @@ Le plus simple : l'adresse e-mail affichée sur mon profil GitHub, ou [LinkedIn]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00CF00&height=100&section=footer" alt="" width="100%" />
 </p>
-
-<details>
-  <summary>✨ Ce qui compose ce README</summary>
-
-- [capsule-render](https://github.com/kyechan99/capsule-render) : bannières
-- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) : intro animée
-- [komarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) : compteur de vues
-- [shields.io](https://shields.io) : badges
-- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) : cartes de stats
-- [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) : activité récente
-- [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) : emojis animés
-</details>
