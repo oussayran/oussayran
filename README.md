@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About me
 
-- ⚡ **Electronics & embedded systems engineer** (FPGA, VHDL, Xilinx Zynq, embedded Linux)
+- ⚡ **Electronics & embedded systems engineer** (Embedded Software, FPGA, Analog & Digital circuits)
 - 🌐 **Full-stack web developer** building **custom applications with built-in AI**
 - 🧠 I build **RAG** pipelines, **AI chatbots** and **n8n** automations
 - 🚀 Creator of **[Tech SaaS](https://tech-saas.com)**: multi-channel CRM (WhatsApp, Instagram, Messenger), n8n workflows, AI chatbots & agents, ERP integrations
@@ -35,7 +35,7 @@
 - 🤖 I build **MCP servers** and automations to drive our systems with AI
 - 🧪 I run **innovation workshops** on the future of access control
 - 💬 Ask me about **embedded systems, AI integration, automation or IoT**
-- ⚡ Fun fact: [your fun fact]
+- ⚡ Fun fact: I speak C to software, VHDL to hardware—and AI to everything in between.
 
 ## 🛠️ Tools I use
 
@@ -75,12 +75,12 @@ const myTools = {
 
 ## 🚧 What I'm up to
 
-```text
-- Tech SaaS (tech-saas.com): CRM, n8n automation and AI chatbots for SMBs
-- MCP server for an access control system (people, credentials, profiles, events)
-- Display and melody customization on connected readers
-- "Going digital with access control" innovation workshop
-```
+- **Tech SaaS** ([tech-saas.com](https://tech-saas.com)) — CRM, n8n automation, and AI chatbots for SMBs
+- **MCP server for an access control system** — people, credentials, profiles, events
+- **"Going Digital with Access Control"** — innovation workshop
+- **AI stack developer** — building and integrating AI-powered tooling
+- **AI coding agents** — expert in Claude Code, Codex, etc.
+
 
 Someday, I'd like to:
 - 🔜 Launch a datacenter cloud provider offering compute, storage, and networking as a service
