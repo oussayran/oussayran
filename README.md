@@ -83,22 +83,19 @@ const myTools = {
 ```
 
 Someday, I'd like to:
-- 🔜 [Project idea #1]
-- 🔜 [Project idea #2]
+- 🔜 Launch a datacenter cloud provider offering compute, storage, and networking as a service
+- 🔜 Replace traditional access control with a cloud-native identity and policy layer for buildings and infrastructure
 
 ## 📚 Resources
 
 #### Web & AI
 - [Tech SaaS](https://tech-saas.com): platform I built — multi-channel CRM, n8n workflows, AI chatbots & agents
 
-#### Access control
-- [Guide or gist title](https://gist.github.com/oussayran/[id])
-
 #### Embedded & FPGA
 - [ZYBO_zynq-Xilinx](https://github.com/oussayran/ZYBO_zynq-Xilinx): VHDL projects on the ZYBO board (Xilinx Zynq)
 
 #### Scripts & tools
-- [Script name](https://github.com/oussayran/[repo]): [short description]
+- [Script name](https://github.com/oussayran/[repo]): [short description] (Coming Soon)
 
 ## 📊 GitHub stats
 
