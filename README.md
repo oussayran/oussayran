@@ -112,7 +112,7 @@ Someday, I'd like to:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AlexandreTaboin/automatic-GLPI-ticket-response-using-llm/issues/1) in [AlexandreTaboin/automatic-GLPI-ticket-response-using-llm](https://github.com/AlexandreTaboin/automatic-GLPI-ticket-response-using-llm)
+1. 🗣 Commented on [#1](https://github.com/AlexandreTaboin/automatic-GLPI-ticket-response-using-llm/issues/1#issuecomment-6473239276) in [AlexandreTaboin/automatic-GLPI-ticket-response-using-llm](https://github.com/AlexandreTaboin/automatic-GLPI-ticket-response-using-llm)
 <!--END_SECTION:activity-->
 
 ## 🔁 The code cycle
